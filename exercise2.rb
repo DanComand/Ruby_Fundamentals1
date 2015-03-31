@@ -4,8 +4,6 @@ dinner_price = 55 * 1.2
 
 puts "The dinner plus tip is #{dinner_price.round}"
 
-
-
 # 2. Adding a string to an integer
 
 firstString = "35"
