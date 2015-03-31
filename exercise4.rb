@@ -8,6 +8,8 @@ counter.each do | num |
 		puts "Maker"
 		elsif num % 3 == 0
 		puts "Bit"
+		else 
+		puts num
 
 		end	
 	end
